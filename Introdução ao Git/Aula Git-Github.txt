@@ -1,0 +1,1 @@
+Nesta aula foi ensinado como criar um repositório, clonar o mesmo e subir (push) todas as alterações realizadas localmente.
